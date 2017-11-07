@@ -1,2 +1,0 @@
-# mediafireStream
-Streaming of mediafire.
